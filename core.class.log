@@ -1,0 +1,499 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56942539676@s.whatsapp.net',
+    fromMe: false,
+    id: '4287AA1C205DF78785',
+    participant: undefined
+  },
+  messageTimestamp: 1700531186,
+  pushName: 'Ferpo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '56942539676'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2409e9f2-fe0f-427e-afe1-5880376c7f68',
+  keyword: 'key_d879930b-7052-4c64-81ea-2fe8aa5606ae',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '202a4eb5ed1a75c5d352d41070cf022a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fcacf44a-0e44-4fec-acf7-b1261882d9bf',
+  keyword: 'ans_2409e9f2-fe0f-427e-afe1-5880376c7f68',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* pizza peperoni\n' +
+    '👉 *una pizza* grande',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '97909f4f322ac098c77c67402c78b609'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56940533722@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA53442F7EAD3E65D3F',
+    participant: undefined
+  },
+  messageTimestamp: 1700531270,
+  pushName: 'Renato',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '56940533722'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2409e9f2-fe0f-427e-afe1-5880376c7f68',
+  keyword: 'key_d879930b-7052-4c64-81ea-2fe8aa5606ae',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '202a4eb5ed1a75c5d352d41070cf022a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fcacf44a-0e44-4fec-acf7-b1261882d9bf',
+  keyword: 'ans_2409e9f2-fe0f-427e-afe1-5880376c7f68',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* pizza peperoni\n' +
+    '👉 *una pizza* grande',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '97909f4f322ac098c77c67402c78b609'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56940533722@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06D11422691D9D54923',
+    participant: undefined
+  },
+  messageTimestamp: 1700531358,
+  pushName: 'Renato',
+  broadcast: false,
+  message: Message {
+    conversation: 'me mandas el menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'me mandas el menu',
+  from: '56940533722'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0370ece-7467-49dc-b6c9-9eeb00df531e',
+  keyword: 'key_f7b17ce6-43e1-426d-bba7-19374db7652b',
+  answer: '*Menu* https://docs.google.com/document/d/1bRx2wNS8Iml9saYxFmoqQr4xfDKPvKCEcS7QEHzX5To/edit?usp=sharing',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd7aab25cfae170f97388d2e0d26e5012'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56942539676@s.whatsapp.net',
+    fromMe: false,
+    id: 'E04DC9C25BC9293C0C',
+    participant: undefined
+  },
+  messageTimestamp: 1700531370,
+  pushName: 'Ferpo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'me mandas menu',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'me mandas menu',
+  from: '56942539676'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0370ece-7467-49dc-b6c9-9eeb00df531e',
+  keyword: 'key_f7b17ce6-43e1-426d-bba7-19374db7652b',
+  answer: '*Menu* https://docs.google.com/document/d/1bRx2wNS8Iml9saYxFmoqQr4xfDKPvKCEcS7QEHzX5To/edit?usp=sharing',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd7aab25cfae170f97388d2e0d26e5012'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56940533722@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0700F7B657C7B395E72',
+    participant: undefined
+  },
+  messageTimestamp: 1700531402,
+  pushName: 'Renato',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '56940533722'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56942539676@s.whatsapp.net',
+    fromMe: false,
+    id: 'C6EC90F83B20A9AA36',
+    participant: undefined
+  },
+  messageTimestamp: 1700531402,
+  pushName: 'Ferpo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'menu', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '56942539676'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56942539676@s.whatsapp.net',
+    fromMe: false,
+    id: 'DBEAF6F18E0AE281B0',
+    participant: undefined
+  },
+  messageTimestamp: 1700531408,
+  pushName: 'Ferpo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'menu', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '56942539676'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56942539676@s.whatsapp.net',
+    fromMe: false,
+    id: '83F6972FB3BA7C6D54',
+    participant: undefined
+  },
+  messageTimestamp: 1700531410,
+  pushName: 'Ferpo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'menu', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '56942539676'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56942539676@s.whatsapp.net',
+    fromMe: false,
+    id: '064DDB9DD7D22F7D1E',
+    participant: undefined
+  },
+  messageTimestamp: 1700531413,
+  pushName: 'Ferpo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '56942539676'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2409e9f2-fe0f-427e-afe1-5880376c7f68',
+  keyword: 'key_d879930b-7052-4c64-81ea-2fe8aa5606ae',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '202a4eb5ed1a75c5d352d41070cf022a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fcacf44a-0e44-4fec-acf7-b1261882d9bf',
+  keyword: 'ans_2409e9f2-fe0f-427e-afe1-5880376c7f68',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* pizza peperoni\n' +
+    '👉 *una pizza* grande',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '97909f4f322ac098c77c67402c78b609'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56942539676@s.whatsapp.net',
+    fromMe: false,
+    id: '46D26A6C63FE343022',
+    participant: undefined
+  },
+  messageTimestamp: 1700531415,
+  pushName: 'Ferpo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'menu', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '56942539676'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56940533722@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E46E786636715B8F43',
+    participant: undefined
+  },
+  messageTimestamp: 1700531415,
+  pushName: 'Renato',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '56940533722'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0370ece-7467-49dc-b6c9-9eeb00df531e',
+  keyword: 'key_f7b17ce6-43e1-426d-bba7-19374db7652b',
+  answer: '*Menu* https://docs.google.com/document/d/1bRx2wNS8Iml9saYxFmoqQr4xfDKPvKCEcS7QEHzX5To/edit?usp=sharing',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd7aab25cfae170f97388d2e0d26e5012'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2409e9f2-fe0f-427e-afe1-5880376c7f68',
+  keyword: 'key_d879930b-7052-4c64-81ea-2fe8aa5606ae',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '202a4eb5ed1a75c5d352d41070cf022a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fcacf44a-0e44-4fec-acf7-b1261882d9bf',
+  keyword: 'ans_2409e9f2-fe0f-427e-afe1-5880376c7f68',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* pizza peperoni\n' +
+    '👉 *una pizza* grande',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '97909f4f322ac098c77c67402c78b609'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56940533722@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB009A82C5779C47526A3',
+    participant: undefined
+  },
+  messageTimestamp: 1700531419,
+  pushName: 'Renato',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '56940533722'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b0370ece-7467-49dc-b6c9-9eeb00df531e',
+  keyword: 'key_f7b17ce6-43e1-426d-bba7-19374db7652b',
+  answer: '*Menu* https://docs.google.com/document/d/1bRx2wNS8Iml9saYxFmoqQr4xfDKPvKCEcS7QEHzX5To/edit?usp=sharing',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd7aab25cfae170f97388d2e0d26e5012'
+}
